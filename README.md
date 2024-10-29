@@ -36,13 +36,6 @@ My expertise spans Web, Mobile, Game, AR/VR development.
 
 ---
 
-<details>
-  <summary>
-    <h3>👨‍💻 Abhinav's Coding Journey</h3>
-    fsdnbhjbfdhjbfdjhsbhjdsbhjdsbhjfbfhjsdbfhjsdbhjfdsbf
-  </summary>
-</details>
-
 <!--
 **AbhinavMohanSDE/AbhinavMohanSDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
