@@ -7,9 +7,9 @@ I have also founded a startup that focused on gaming and a full-stack webgl plat
 I am a result-oriented programmer, that focuses on feature completion <- with minimal tech debt (has to be a good balance between feature delivery + scalable system structure), and love the thrill of solving complex problems.
 
 My expertise spans Web, Mobile, Game, AR/VR development.
-
+<br />
 # 🔨 Languages and Tools
-
+<br />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
