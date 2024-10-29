@@ -29,7 +29,7 @@ My expertise spans Web, Mobile, Game, AR/VR development.
 
 ### 🎮 Projects
 
-Cube Hero Odyssey [3D Game available on Web/Mobile/Steam]
+<p>Cube Hero Odyssey [3D Game available on Web/Mobile/Steam]</p>
 <img align="center" alt="Cube Hero Odyssey" width="300px" style="padding-right:10px;" src="https://i.ibb.co/L8Mtz71/cubeherologo.png" />
 
 
