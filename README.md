@@ -2,7 +2,7 @@
 
 I'm a full-stack software engineer with 5+ years of experience. I have previously worked with Microsoft (as a partner) and a startup with clients such as YouTube and Dell. 
 
-I have also founded a startup that focused on gaming and full-stack solutions for users.
+I have also founded a startup that focused on gaming and a full-stack webgl platform for users.
 
 I am a result-oriented programmer, that focuses on the feature being completed <- with minimal tech debt (has to be a good balance between feature delivery + scalable system structure), and love the thrill of solving complex problems.
 
