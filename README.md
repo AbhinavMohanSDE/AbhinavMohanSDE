@@ -9,7 +9,7 @@ I am a result-oriented programmer that:<br />
 -> balances between fast feature delivery & scalable system structure<br />
 -> loves the thrill of solving complex problems
 
-My expertise spans <b>Web</b>, <b>Mobile</b>, <b>Gaming</b>, <b>AR/VR</b> development.
+My expertise spans <b>Web</b>, <b>Mobile</b>, <b>Gaming</b>, and <b>AR/VR</b> development.
 
 <br />
 
