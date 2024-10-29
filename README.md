@@ -8,8 +8,6 @@ I am a result-oriented programmer, that focuses on the feature being completed <
 
 My expertise spans Web, Mobile, Game, AR/VR development.
 
-Languages & Tools: JavaScript, TypeScript, C#, React.js, Next.js, Unity 3D, Babylon.js
-
 ---
 
 ### 🔨 Languages and Tools
