@@ -1,4 +1,4 @@
-# 🚀 Abhinav Mohan
+# 🚀 Abhinav Mohan 💻
 
 I'm a full-stack software engineer with 5+ years of experience. I have previously worked with Microsoft (as a partner) and a startup with clients such as YouTube and Dell. 
 
@@ -34,6 +34,14 @@ My expertise spans Web, Mobile, Game, AR/VR development.
 <h5>Cube Hero Odyssey [3D Game]</h5>
 <img align="center" alt="Cube Hero Odyssey" width="200px" style="padding-right:10px;" src="https://i.ibb.co/L8Mtz71/cubeherologo.png" />
 
+---
+
+<details>
+  <summary>
+    <h3>👨‍💻 Abhinav's Coding Journey</h3>
+    fsdnbhjbfdhjbfdjhsbhjdsbhjdsbhjfbfhjsdbfhjsdbhjfdsbf
+  </summary>
+</details>
 
 <!--
 **AbhinavMohanSDE/AbhinavMohanSDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
