@@ -8,8 +8,6 @@ I am a result-oriented programmer, that focuses on feature completion <- with mi
 
 My expertise spans Web, Mobile, Game, AR/VR development.
 
----
-
 # 🔨 Languages and Tools
 
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
