@@ -23,8 +23,6 @@ My expertise spans Web, Mobile, Game, AR/VR development.
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
----
-
 # 🎮 Latest Projects
 
 <h5>Paraverse Studio [Fullstack Website]</h5>
