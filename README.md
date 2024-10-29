@@ -36,7 +36,7 @@ https://ibb.co/
 https://ibb.co/
 https://ibb.co/
 
-<img align="center" alt="Cube Hero Odyssey" width="300px" style="padding-right:10px;" src="https://ibb.co/R910pwc" />
+<img align="center" alt="Cube Hero Odyssey" width="300px" style="padding-right:10px;" src="https://i.ibb.co/L8Mtz71/cubeherologo.png" />
 <img align="center" alt="Cube Hero Odyssey" width="300px" style="padding-right:10px;" src="https://ibb.co/h7rcQPd" />
 <img align="center" alt="Cube Hero Odyssey" width="300px" style="padding-right:10px;" src="https://ibb.co/wsRQpxx" />
 <img align="center" alt="Cube Hero Odyssey" width="300px" style="padding-right:10px;" src="https://ibb.co/hRsGknf" />
