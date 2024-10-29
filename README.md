@@ -6,7 +6,8 @@ I have also founded a startup that focused on gaming and a full-stack webgl plat
 
 I am a result-oriented programmer:<br />
 -> that focuses on feature completion with minimal tech debt (has to be a good balance between feature delivery & scalable system structure)<br />
--> loves the thrill of solving complex problems.
+-> that balances between feature delivery & scalable system structure<br />
+-> that loves the thrill of solving complex problems.
 
 My expertise spans Web, Mobile, Game, AR/VR development.
 
