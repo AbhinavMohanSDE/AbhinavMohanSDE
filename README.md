@@ -21,6 +21,8 @@ My expertise spans Web, Mobile, Game, AR/VR development.
 <img align="left" alt="DotNet" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+<br />
+<br />
 
 # 🎮 Latest Projects
 <br />
