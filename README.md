@@ -10,7 +10,7 @@ My expertise spans Web, Mobile, Game, AR/VR development.
 
 # 🔨 Languages and Tools
 
-
+<br />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
@@ -31,7 +31,6 @@ My expertise spans Web, Mobile, Game, AR/VR development.
 <h5>Cube Hero Odyssey [3D Game]</h5>
 <img align="center" alt="Cube Hero Odyssey" width="200px" style="padding-right:10px;" src="https://i.ibb.co/L8Mtz71/cubeherologo.png" />
 <br />
----
 
 <!--
 **AbhinavMohanSDE/AbhinavMohanSDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
