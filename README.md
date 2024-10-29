@@ -29,13 +29,6 @@ My expertise spans Web, Mobile, Game, AR/VR development.
 
 ### 🎮 Projects
 
-
-https://ibb.co/
-https://ibb.co/
-
-https://ibb.co/
-https://ibb.co/
-
 <img align="center" alt="Cube Hero Odyssey" width="300px" style="padding-right:10px;" src="https://i.ibb.co/L8Mtz71/cubeherologo.png" />
 <img align="center" alt="Colossal Saga" width="300px" style="padding-right:10px;" src="https://i.ibb.co/yfKpvwk/Colossal-Saga.png" />
 <img align="center" alt="Ozone Guardian" width="300px" style="padding-right:10px;" src="https://i.ibb.co/ccJWPpL/Ozone-Guardian-Solid.png" />
