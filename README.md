@@ -36,12 +36,12 @@ https://ibb.co/
 https://ibb.co/
 https://ibb.co/
 
-<img align="left" alt="Cube Hero Odyssey" width="30px" style="padding-right:10px;" src="[https://ibb.co/R910pwc)](https://ibb.co/R910pwc)" />
-<img align="left" alt="Cube Hero Odyssey" width="30px" style="padding-right:10px;" src="[https://ibb.co/R910pwc)](https://ibb.co/h7rcQPd)" />
-<img align="left" alt="Cube Hero Odyssey" width="30px" style="padding-right:10px;" src="[https://ibb.co/R910pwc)](https://ibb.co/wsRQpxx)" />
-<img align="left" alt="Cube Hero Odyssey" width="30px" style="padding-right:10px;" src="[https://ibb.co/R910pwc)](https://ibb.co/hRsGknf)" />
-<img align="left" alt="Cube Hero Odyssey" width="30px" style="padding-right:10px;" src="[https://ibb.co/R910pwc)](https://ibb.co/NpxrPgx)" />
-<img align="left" alt="Cube Hero Odyssey" width="30px" style="padding-right:10px;" src="[https://ibb.co/R910pwc)](https://ibb.co/jWVKB0P)" />
+<img align="center" alt="Cube Hero Odyssey" width="300px" style="padding-right:10px;" src="[https://ibb.co/R910pwc)](https://ibb.co/R910pwc)" />
+<img align="center" alt="Cube Hero Odyssey" width="300px" style="padding-right:10px;" src="[https://ibb.co/R910pwc)](https://ibb.co/h7rcQPd)" />
+<img align="center" alt="Cube Hero Odyssey" width="300px" style="padding-right:10px;" src="[https://ibb.co/R910pwc)](https://ibb.co/wsRQpxx)" />
+<img align="center" alt="Cube Hero Odyssey" width="300px" style="padding-right:10px;" src="[https://ibb.co/R910pwc)](https://ibb.co/hRsGknf)" />
+<img align="center" alt="Cube Hero Odyssey" width="300px" style="padding-right:10px;" src="[https://ibb.co/R910pwc)](https://ibb.co/NpxrPgx)" />
+<img align="center" alt="Cube Hero Odyssey" width="300px" style="padding-right:10px;" src="[https://ibb.co/R910pwc)](https://ibb.co/jWVKB0P)" />
 
 <!--
 **AbhinavMohanSDE/AbhinavMohanSDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
