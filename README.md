@@ -28,7 +28,7 @@ My expertise spans Web, Mobile, Game, AR/VR development.
 
 # 🎮 Latest Projects
 
-<h5>Paraverse Studio [Fullstack Website]<a href="https://paraversestudio.com/"/></h5>
+<h5>Paraverse Studio [Fullstack Website]</h5>
 <img align="center" alt="Cube Hero Odyssey" width="200px" style="padding-right:10px;" src="https://i.ibb.co/2ZsckYj/Paraverse-Studio.png" />
 <h5>Cube Hero Odyssey [3D Game]</h5>
 <img align="center" alt="Cube Hero Odyssey" width="200px" style="padding-right:10px;" src="https://i.ibb.co/L8Mtz71/cubeherologo.png" />
