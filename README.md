@@ -32,11 +32,16 @@ My expertise spans <b>Web</b>, <b>Mobile</b>, <b>Gaming</b>, and <b>AR/VR</b> de
 # 🎮 Latest Projects
 
 <h5><a href="https://mytravelfootprint.com" target="_blank">My Travel Footprint [Fullstack Website]</a></h5>
+<img align="center" alt="My Travel Footprint" width="200px" style="padding-right:10px;" src="https://www.mytravelfootprint.com/logo.png" />
+
 <h5><a href="https://giftexperiences.ca" target="_blank">Gift Experiences [Fullstack Website]</a></h5>
+<img align="center" alt="Gift Experiences" width="200px" style="padding-right:10px;" src="https://www.giftexperiences.ca/_next/image?url=%2Flogo.png&w=220&q=75" />
+
 <h5><a href="https://paraversestudio.com" target="_blank">Paraverse Studio [Fullstack Website]</a></h5>
-<img align="center" alt="Cube Hero Odyssey" width="200px" style="padding-right:10px;" src="https://i.ibb.co/2ZsckYj/Paraverse-Studio.png" />
+<img align="center" alt="Paraverse Studio" width="200px" style="padding-right:10px;" src="https://i.ibb.co/2ZsckYj/Paraverse-Studio.png" />
+
 <h5><a href="https://abhinavm.io/" target="_blank">Portfolio Website [Fullstack Website]</a></h5>
-<img align="center" alt="Cube Hero Odyssey" width="200px" style="padding-right:10px;" src="https://abhinavm.io/images/projects/portfolioWebsite/portfolioimage01.png" />
+<img align="center" alt="Portfolio Website" width="200px" style="padding-right:10px;" src="https://abhinavm.io/images/projects/portfolioWebsite/portfolioimage01.png" />
 
 <h5><a href="https://store.steampowered.com/app/2954730/Cube_Hero_Odyssey/" target="_blank">Cube Hero Odyssey [3D Game]</a></h5>
 <img align="center" alt="Cube Hero Odyssey" width="200px" style="padding-right:10px;" src="https://i.ibb.co/L8Mtz71/cubeherologo.png" />
