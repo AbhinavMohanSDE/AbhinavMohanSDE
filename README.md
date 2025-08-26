@@ -31,9 +31,9 @@ My expertise spans <b>Web</b>, <b>Mobile</b>, <b>Gaming</b>, and <b>AR/VR</b> de
 
 # 🎮 Latest Projects
 
-##### [My Travel Footprint [Fullstack Website]](https://mytravelfootprint.com)
-##### [Gift Experiences [Fullstack Website]](https://giftexperiences.ca)
-##### [Paraverse Studio [Fullstack Website]](https://paraversestudio.com)
+<h5><a href="https://mytravelfootprint.com" target="_blank">My Travel Footprint [Fullstack Website]</a></h5>
+<h5><a href="https://giftexperiences.ca" target="_blank">Gift Experiences [Fullstack Website]</a></h5>
+<h5><a href="https://paraversestudio.com" target="_blank">Paraverse Studio [Fullstack Website]</a></h5>
 <img align="center" alt="Cube Hero Odyssey" width="200px" style="padding-right:10px;" src="https://i.ibb.co/2ZsckYj/Paraverse-Studio.png" />
 
 ##### [Cube Hero Odyssey [3D Game]]([https://paraversestudio.com](https://store.steampowered.com/app/2954730/Cube_Hero_Odyssey/))
