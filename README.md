@@ -31,6 +31,10 @@ My expertise spans <b>Web</b>, <b>Mobile</b>, <b>Gaming</b>, and <b>AR/VR</b> de
 
 # 🎮 Latest Projects
 
+<h5>My Travel Footprint [Fullstack Website]</h5>
+
+<h5>Gift Experiences [Fullstack Website]</h5>
+
 <h5>Paraverse Studio [Fullstack Website]</h5>
 <img align="center" alt="Cube Hero Odyssey" width="200px" style="padding-right:10px;" src="https://i.ibb.co/2ZsckYj/Paraverse-Studio.png" />
 <h5>Cube Hero Odyssey [3D Game]</h5>
