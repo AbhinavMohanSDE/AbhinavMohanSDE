@@ -5,7 +5,7 @@ I'm a full-stack software engineer with 5+ years of experience. I have previousl
 I have also founded a startup that focused on gaming and a full-stack webgl platform for users.
 
 I am a result-oriented programmer that:<br />
--> focuses on feature completion with minimal tech debt<br />
+-> focuses on feature completion<br />
 -> balances between fast feature delivery & scalable system structure<br />
 -> loves the thrill of solving complex problems
 
