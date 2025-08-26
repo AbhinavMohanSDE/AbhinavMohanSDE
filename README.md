@@ -35,7 +35,7 @@ My expertise spans <b>Web</b>, <b>Mobile</b>, <b>Gaming</b>, and <b>AR/VR</b> de
 ##### [Gift Experiences [Fullstack Website]](https://giftexperiences.ca)
 ##### [Paraverse Studio [Fullstack Website]](https://paraversestudio.com)
 <img align="center" alt="Cube Hero Odyssey" width="200px" style="padding-right:10px;" src="https://i.ibb.co/2ZsckYj/Paraverse-Studio.png" />
-##### [Cube Hero Odyssey [3D Game]]((https://store.steampowered.com/app/2954730/Cube_Hero_Odyssey/))
+##### [Cube Hero Odyssey [3D Game]](https://store.steampowered.com/app/2954730/Cube_Hero_Odyssey/)
 <img align="center" alt="Cube Hero Odyssey" width="200px" style="padding-right:10px;" src="https://i.ibb.co/L8Mtz71/cubeherologo.png" />
 <br />
 
